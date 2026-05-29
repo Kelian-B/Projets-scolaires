@@ -10,6 +10,6 @@ En tant que chef de projet, ma mission a consisté à analyser les besoins d'un 
 
 **Sécurisation :** Durcissement de l'infrastructure et gestion des risques.
 
-Au sein de ce répertoire, j'ai rassemblé l'intégralité des livrables, maquettes et dossiers techniques que j'ai conçus. Chaque élément a été développé dans l'objectif d'apporter une réponse précise, structurée et directement exploitable face aux besoins de cette municipalité.
+Au sein des répertoires correspondants, j'ai rassemblé l'intégralité des livrables, maquettes et dossiers techniques que j'ai conçus. Chaque élément a été développé dans l'objectif d'apporter une réponse précise, structurée et directement exploitable face aux besoins de cette municipalité.
 
 Note : Pour coller aux réalités du terrain, les documents fournis (inventaires, plans, schémas) comprenaient volontairement des incohérences et des erreurs de mise à jour, exigeant un véritable travail d'audit et d'adaptation propre aux projets en entreprise.
